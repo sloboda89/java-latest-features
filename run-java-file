@@ -1,0 +1,7 @@
+#!/c/jdk-15.0.1/bin/java --source 15
+
+public class RunningJavaFile {
+    public static void main(String[] args) {
+        System.out.println("Hello Cursor Education folks!");
+    }
+}

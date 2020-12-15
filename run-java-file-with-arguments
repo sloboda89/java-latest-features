@@ -1,0 +1,7 @@
+#!/c/jdk-15.0.1/bin/java --source 15
+
+public class RunningJavaFileWithArguments {
+    public static void main(String[] args) {
+        System.out.println("Hello " + args[0] + " folks!");
+    }
+}
